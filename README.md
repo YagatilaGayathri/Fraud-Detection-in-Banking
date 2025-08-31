@@ -33,3 +33,16 @@ The dataset used is the Online Payments Fraud Detection Dataset from Kaggle:
 
 ⚠️ Note: The original dataset has 6M+ rows, so only a sample dataset is included here (sample_fraud.csv).
 Please download the full dataset from Kaggle if you want to replicate the full analysis.
+
+⚙️ Installation & Running
+🔹 1. Clone the Repository
+        git clone https://github.com/your-username/fraud-detection-app.git
+        cd fraud-detection-app
+
+🔹 2. Install Dependencies
+        pip install -r requirements.txt
+
+🔹 3. Run the Streamlit App
+        streamlit run streamlit_app.py
+
+This will launch the app in your browser.
